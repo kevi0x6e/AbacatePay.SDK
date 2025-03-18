@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbacatePay.SDK", "AbacatePay.SDK\AbacatePay.SDK.csproj", "{DA42E86D-B708-4808-A275-5B91B00DAEA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbacatePay.SDK.Tests", "AbacatePay.SDK.Tests\AbacatePay.SDK.Tests.csproj", "{5A1FA843-20FB-4FEF-B71E-8FCD6747753B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA42E86D-B708-4808-A275-5B91B00DAEA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA42E86D-B708-4808-A275-5B91B00DAEA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA42E86D-B708-4808-A275-5B91B00DAEA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA42E86D-B708-4808-A275-5B91B00DAEA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A1FA843-20FB-4FEF-B71E-8FCD6747753B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A1FA843-20FB-4FEF-B71E-8FCD6747753B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A1FA843-20FB-4FEF-B71E-8FCD6747753B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A1FA843-20FB-4FEF-B71E-8FCD6747753B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

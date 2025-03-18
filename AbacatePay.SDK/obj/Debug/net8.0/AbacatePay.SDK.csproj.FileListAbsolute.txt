@@ -1,0 +1,11 @@
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/bin/Debug/net8.0/AbacatePay.SDK.deps.json
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/bin/Debug/net8.0/AbacatePay.SDK.dll
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/bin/Debug/net8.0/AbacatePay.SDK.pdb
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/obj/Debug/net8.0/AbacatePay.SDK.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/obj/Debug/net8.0/AbacatePay.SDK.AssemblyInfoInputs.cache
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/obj/Debug/net8.0/AbacatePay.SDK.AssemblyInfo.cs
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/obj/Debug/net8.0/AbacatePay.SDK.csproj.CoreCompileInputs.cache
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/obj/Debug/net8.0/AbacatePay.SDK.dll
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/obj/Debug/net8.0/refint/AbacatePay.SDK.dll
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/obj/Debug/net8.0/AbacatePay.SDK.pdb
+/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/obj/Debug/net8.0/ref/AbacatePay.SDK.dll

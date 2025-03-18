@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK.Tests/AbacatePay.SDK.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK.Tests/AbacatePay.SDK.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK.Tests/AbacatePay.SDK.Tests.csproj",
+        "projectName": "AbacatePay.SDK.Tests",
+        "projectPath": "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK.Tests/AbacatePay.SDK.Tests.csproj",
+        "packagesPath": "/Users/kevinkusy/.nuget/packages/",
+        "outputPath": "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kevinkusy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/AbacatePay.SDK.csproj": {
+                "projectPath": "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/AbacatePay.SDK.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.5.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/AbacatePay.SDK.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/AbacatePay.SDK.csproj",
+        "projectName": "AbacatePay.SDK",
+        "projectPath": "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/AbacatePay.SDK.csproj",
+        "packagesPath": "/Users/kevinkusy/.nuget/packages/",
+        "outputPath": "/Users/kevinkusy/Documents/Projects/abacatepay-csharp-sdk/AbacatePay.SDK/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kevinkusy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
